@@ -7,3 +7,7 @@
 4. The trajectory would look like this:
 
 ![trajectory](trajectory_example.png))
+
+
+***Trajectory MarkerArray names: Total 9***
+arm_base_link_inertia arm_shoulder_link arm_forearm_link arm_upper_arm_link arm_wrist_1_link arm_wrist_2_link arm_wrist_3_link arm_flange arm_tool0
